@@ -78,12 +78,12 @@ const CardList = ({ cards }) => {
       
       <div className="card-container">
         {filteredCards?.map((card) => (
-          <Link to={`/construction/card/${card.roadname_tc}`} state={{card}} key={card.roadname_tc}>
+          <Link to={`/construction/card/${card?.roadname_tc}`} state={{card}} key={card?.roadname_tc}>
             <div className="card">
-              <h3>{card.workstype_tc}</h3>
-              <p>{card.roadname_tc}</p>
-              <p>開始時間: {card.starttime}</p>
-              <p>結束時間: {card.endtime}</p>
+              <h4> <i class="fa-solid fa-location-dot"></i>  {card?.roadname_tc}</h4>
+              <h5>{card?.workstype_tc}</h5>
+              <p>開始時間: {card?.starttime}</p>
+              <p>結束時間: {card?.endtime}</p>
             </div>
           </Link>
         ))}

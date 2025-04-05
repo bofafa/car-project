@@ -1,362 +1,362 @@
 [
-    {
-      "name": "陛下",
-      "address": "香港中環口福街18號",
-      "sub_district": "中環",
-      "tel": "+852 1234 5678",
-      "stars": 1,
-      "introduction": "一家現代廣東餐廳，專注於季節性食材和傳統風味。"
-    },
-    {
-      "name": "Amber",
-      "address": "香港置地文華東方酒店15號皇后大道中",
-      "sub_district": "中環",
-      "tel": "+852 2345 6789",
-      "stars": 2,
-      "introduction": "一家當代法國餐廳，提供創新菜餚和豐富的葡萄酒選擇。"
-    },
-    {
-      "name": "龍景軒",
-      "address": "香港四季酒店金融街8號",
-      "sub_district": "中環",
-      "tel": "+852 3456 7890",
-      "stars": 1,
-      "introduction": "以精緻的點心和廣東菜而聞名，並享有壯觀的海港景色。"
-    },
-    {
-      "name": "好利福",
-      "address": "香港蘇豪區伊利近街1號",
-      "sub_district": "中環",
-      "tel": "+852 4567 8901",
-      "stars": 1,
-      "introduction": "一家現代中餐廳，對傳統菜餚進行創新改良，氣氛活潑。"
-    },
-    {
-      "name": "壽司之權",
-      "address": "香港置地文華東方酒店15號皇后大道中",
-      "sub_district": "中環",
-      "tel": "+852 5678 9012",
-      "stars": 3,
-      "introduction": "一家三顆米其林星的壽司餐廳，提供正宗的江戶前壽司體驗。"
-    },
-    {
-      "name": "福臨門",
-      "address": "香港九龍塘又一城1樓",
-      "sub_district": "九龍塘",
-      "tel": "+852 6789 0123",
-      "stars": 1,
-      "introduction": "以其精緻的廣東菜聞名，提供高端的用餐體驗。"
-    },
-    {
-      "name": "米其林",
-      "address": "香港中環德輔道中23號",
-      "sub_district": "中環",
-      "tel": "+852 7890 1234",
-      "stars": 1,
-      "introduction": "這家餐廳提供傳統的法國菜，搭配現代風格的呈現。"
-    },
-    {
-      "name": "一心",
-      "address": "香港中環蘇豪區天星碼頭",
-      "sub_district": "中環",
-      "tel": "+852 8901 2345",
-      "stars": 1,
-      "introduction": "專注於當地食材的創新菜餚，並提供全景海港景色。"
-    },
-    {
-      "name": "喜悅",
-      "address": "香港尖沙咀廣東道118號",
-      "sub_district": "尖沙咀",
-      "tel": "+852 9012 3456",
-      "stars": 1,
-      "introduction": "以其精緻的點心和廣東料理而聞名，深受食客喜愛。"
-    },
-    {
-      "name": "大班樓",
-      "address": "香港灣仔莊士倫道9號",
-      "sub_district": "灣仔",
-      "tel": "+852 0123 4567",
-      "stars": 1,
-      "introduction": "提供傳統廣東美食，並以其優雅的環境而聞名。"
-    },
-    {
-      "name": "翠華餐廳",
-      "address": "香港旺角彌敦道2號",
-      "sub_district": "旺角",
-      "tel": "+852 1234 5678",
-      "stars": 1,
-      "introduction": "一家著名的茶餐廳，以其經典的港式菜餚和舒適的氛圍著稱。"
-    },
-    {
-      "name": "源味",
-      "address": "香港中環干諾道中12號",
-      "sub_district": "中環",
-      "tel": "+852 2345 6789",
-      "stars": 1,
-      "introduction": "專注於創意廣東菜，結合傳統技術和現代風味。"
-    },
-    {
-      "name": "和樂",
-      "address": "香港尖沙咀海港城",
-      "sub_district": "尖沙咀",
-      "tel": "+852 3456 7890",
-      "stars": 1,
-      "introduction": "提供高檔日本料理，著重於新鮮食材和精緻的擺盤。"
-    },
-    {
-      "name": "天鵝堡",
-      "address": "香港中環蘭桂坊",
-      "sub_district": "中環",
-      "tel": "+852 4567 8901",
-      "stars": 1,
-      "introduction": "以其優雅的環境和創新的法國菜而廣受好評。"
-    },
-    {
-      "name": "雅苑",
-      "address": "香港銅鑼灣希慎道3號",
-      "sub_district": "銅鑼灣",
-      "tel": "+852 5678 9012",
-      "stars": 1,
-      "introduction": "專注於精緻的粵菜，結合傳統與現代的烹飪技術。"
-    },
-    {
-      "name": "美心皇宮",
-      "address": "香港旺角彌敦道250號",
-      "sub_district": "旺角",
-      "tel": "+852 6789 0123",
-      "stars": 1,
-      "introduction": "以其精緻的廣東料理和高端的用餐環境而聞名。"
-    },
-    {
-      "name": "新记",
-      "address": "香港中環蘇豪區",
-      "sub_district": "中環",
-      "tel": "+852 7890 1234",
-      "stars": 1,
-      "introduction": "提供經典的港式小吃和傳統廣東菜，深受當地人喜愛。"
-    },
-    {
-      "name": "桃花源",
-      "address": "香港中環干諾道中5號",
-      "sub_district": "中環",
-      "tel": "+852 8901 2345",
-      "stars": 1,
-      "introduction": "以其精緻的江南菜而聞名，提供優雅的用餐體驗。"
-    },
-    {
-      "name": "名軒",
-      "address": "香港銅鑼灣渣甸坊9號",
-      "sub_district": "銅鑼灣",
-      "tel": "+852 9012 3456",
-      "stars": 1,
-      "introduction": "專注於現代廣東菜，結合傳統風味與創新技術。"
-    },
-    {
-      "name": "燒肉野",
-      "address": "香港灣仔爾巷6號",
-      "sub_district": "灣仔",
-      "tel": "+852 0123 4567",
-      "stars": 1,
-      "introduction": "以其高品質的燒肉和獨特的調味而著稱，受食客喜愛。"
-    },
-    {
-      "name": "星星餐廳",
-      "address": "香港旺角彌敦道100號",
-      "sub_district": "旺角",
-      "tel": "+852 1234 5678",
-      "stars": 1,
-      "introduction": "提供多樣化的港式菜餚，氣氛輕鬆愉快。"
-    },
-    {
-      "name": "佳瑪",
-      "address": "香港中環德輔道中56號",
-      "sub_district": "中環",
-      "tel": "+852 2345 6789",
-      "stars": 1,
-      "introduction": "專注於地道的廣東菜，以新鮮的食材和精緻的呈現而聞名。"
-    },
-    {
-      "name": "珊瑚海",
-      "address": "香港中環德輔道中30號",
-      "sub_district": "中環",
-      "tel": "+852 3456 7890",
-      "stars": 1,
-      "introduction": "提供新鮮的海鮮和創新的菜餚，深受食客喜愛。"
-    },
-    {
-      "name": "金滿樓",
-      "address": "香港旺角彌敦道245號",
-      "sub_district": "旺角",
-      "tel": "+852 6789 0123",
-      "stars": 1,
-      "introduction": "以其獨特的港式燒臘而聞名，並提供舒適的用餐環境。"
-    },
-    {
-      "name": "珍味軒",
-      "address": "香港銅鑼灣希慎道21號",
-      "sub_district": "銅鑼灣",
-      "tel": "+852 7890 1234",
-      "stars": 1,
-      "introduction": "專注於精緻的粵菜，並提供高品質的用餐體驗。"
-    },
-    {
-      "name": "新加坡美食",
-      "address": "香港中環皇后大道中30號",
-      "sub_district": "中環",
-      "tel": "+852 8901 2345",
-      "stars": 1,
-      "introduction": "提供多樣的東南亞美食，環境雅緻。"
-    },
-    {
-      "name": "京華大酒樓",
-      "address": "香港灣仔道113號",
-      "sub_district": "灣仔",
-      "tel": "+852 9012 3456",
-      "stars": 1,
-      "introduction": "以其地道的北京菜而聞名，並提供優雅的用餐體驗。"
-    },
-    {
-      "name": "昌記小館",
-      "address": "香港九龍城寨街12號",
-      "sub_district": "九龍城",
-      "tel": "+852 0123 4567",
-      "stars": 1,
-      "introduction": "提供經典的港式小吃，深受當地人喜愛。"
-    },
-    {
-      "name": "海天盛筵",
-      "address": "香港中環海港大廈",
-      "sub_district": "中環",
-      "tel": "+852 1234 5678",
-      "stars": 1,
-      "introduction": "提供高端海鮮和精緻的中式料理，深受食客喜愛。"
-    },
-    {
-      "name": "清新小館",
-      "address": "香港銅鑼灣百德街2號",
-      "sub_district": "銅鑼灣",
-      "tel": "+852 2345 6789",
-      "stars": 1,
-      "introduction": "以新鮮的食材和創新的烹飪技術而聞名，提供獨特的用餐體驗。"
-    },
-    {
-      "name": "大快活",
-      "address": "香港旺角彌敦道188號",
-      "sub_district": "旺角",
-      "tel": "+852 3456 7890",
-      "stars": 1,
-      "introduction": "提供經典的港式快餐和小吃，讓食客感受地道風味。"
-    },
-    {
-      "name": "天香樓",
-      "address": "香港中環德輔道中10號",
-      "sub_district": "中環",
-      "tel": "+852 4567 8901",
-      "stars": 1,
-      "introduction": "專注於高品質的四川菜，以其獨特的風味而聞名。"
-    },
-    {
-      "name": "食神",
-      "address": "香港尖沙咀海港城",
-      "sub_district": "尖沙咀",
-      "tel": "+852 5678 9012",
-      "stars": 1,
-      "introduction": "提供多樣化的中華美食，以其創意和精緻的菜餚而廣受好評。"
-    },
-    {
-      "name": "樂天",
-      "address": "香港灣仔莊士倫道5號",
-      "sub_district": "灣仔",
-      "tel": "+852 6789 0123",
-      "stars": 1,
-      "introduction": "專注於地道的韓國料理，環境舒適，適合聚會。"
-    },
-    {
-      "name": "未來食堂",
-      "address": "香港中環蘭桂坊8號",
-      "sub_district": "中環",
-      "tel": "+852 7890 1234",
-      "stars": 1,
-      "introduction": "提供創新的素食料理，注重健康和環保。"
-    },
-    {
-      "name": "懷舊小館",
-      "address": "香港尖沙咀彌敦道88號",
-      "sub_district": "尖沙咀",
-      "tel": "+852 8901 2345",
-      "stars": 1,
-      "introduction": "以其懷舊的港式美食和懷舊氛圍而聞名。"
-    },
-    {
-      "name": "皇朝大酒樓",
-      "address": "香港中環德輔道中20號",
-      "sub_district": "中環",
-      "tel": "+852 9012 3456",
-      "stars": 1,
-      "introduction": "提供高端的廣東菜，並以其優雅的環境而聞名。"
-    },
-    {
-      "name": "香格里拉",
-      "address": "香港九龍塘，又一城3樓",
-      "sub_district": "九龍塘",
-      "tel": "+852 0123 4567",
-      "stars": 1,
-      "introduction": "以其精緻的中式料理和優雅的氛圍而受到讚譽。"
-    },
-    {
-      "name": "金碧輝煌",
-      "address": "香港灣仔道82號",
-      "sub_district": "灣仔",
-      "tel": "+852 1234 5678",
-      "stars": 1,
-      "introduction": "提供高端的粵菜，以其精緻的擺盤和創意而聞名。"
-    },
-    {
-      "name": "富貴樓",
-      "address": "香港中環美利道2號",
-      "sub_district": "中環",
-      "tel": "+852 2345 6789",
-      "stars": 1,
-      "introduction": "提供經典的廣東美食和優雅的就餐環境。"
-    },
-    {
-      "name": "味道",
-      "address": "香港尖沙咀廣東道78號",
-      "sub_district": "尖沙咀",
-      "tel": "+852 3456 7890",
-      "stars": 1,
-      "introduction": "專注於創意的中式料理，融合了多種烹飪技術。"
-    },
-    {
-      "name": "金豐酒家",
-      "address": "香港灣仔道99號",
-      "sub_district": "灣仔",
-      "tel": "+852 4567 8901",
-      "stars": 1,
-      "introduction": "以其獨特的港式燒臘和點心而聞名，深受食客喜愛。"
-    },
-    {
-      "name": "桃花源",
-      "address": "香港尖沙咀彌敦道88號",
-      "sub_district": "尖沙咀",
-      "tel": "+852 5678 9012",
-      "stars": 1,
-      "introduction": "專注於精緻的粵菜，並提供優雅的用餐環境。"
-    },
-    {
-      "name": "獅子山",
-      "address": "香港中環德輔道中10號",
-      "sub_district": "中環",
-      "tel": "+852 6789 0123",
-      "stars": 1,
-      "introduction": "提供傳統的廣東菜和精緻的海鮮料理，深受食客喜愛。"
-    },
-    {
-      "name": "海鮮王國",
-      "address": "香港中環干諾道中70號",
-      "sub_district": "中環",
-      "tel": "+852 7890 1234",
-      "stars": 1,
-      "introduction": "以新鮮的海鮮和創新的烹飪技術而聞名。"
-    }
+  {
+    "name": "陛下",
+    "address": "香港中環口福街18號",
+    "sub_district": "中環",
+    "tel": "+852 1234 5678",
+    "stars": 1,
+    "introduction": "一家現代廣東餐廳，專注於季節性食材和傳統風味。"
+  },
+  {
+    "name": "Amber",
+    "address": "香港置地文華東方酒店15號皇后大道中",
+    "sub_district": "中環",
+    "tel": "+852 2345 6789",
+    "stars": 3,
+    "introduction": "一家當代法國餐廳，提供創新菜餚和豐富的葡萄酒選擇。"
+  },
+  {
+    "name": "龍景軒",
+    "address": "香港四季酒店金融街8號",
+    "sub_district": "中環",
+    "tel": "+852 3456 7890",
+    "stars": 1,
+    "introduction": "以精緻的點心和廣東菜而聞名，並享有壯觀的海港景色。"
+  },
+  {
+    "name": "好利福",
+    "address": "香港蘇豪區伊利近街1號",
+    "sub_district": "中環",
+    "tel": "+852 4567 8901",
+    "stars": 1,
+    "introduction": "一家現代中餐廳，對傳統菜餚進行創新改良，氣氛活潑。"
+  },
+  {
+    "name": "壽司之權",
+    "address": "香港置地文華東方酒店15號皇后大道中",
+    "sub_district": "中環",
+    "tel": "+852 5678 9012",
+    "stars": 3,
+    "introduction": "一家三顆米其林星的壽司餐廳，提供正宗的江戶前壽司體驗。"
+  },
+  {
+    "name": "福臨門",
+    "address": "香港九龍塘又一城1樓",
+    "sub_district": "九龍塘",
+    "tel": "+852 6789 0123",
+    "stars": 1,
+    "introduction": "以其精緻的廣東菜聞名，提供高端的用餐體驗。"
+  },
+  {
+    "name": "米其林",
+    "address": "香港中環德輔道中23號",
+    "sub_district": "中環",
+    "tel": "+852 7890 1234",
+    "stars": 1,
+    "introduction": "這家餐廳提供傳統的法國菜，搭配現代風格的呈現。"
+  },
+  {
+    "name": "一心",
+    "address": "香港中環蘇豪區天星碼頭",
+    "sub_district": "中環",
+    "tel": "+852 8901 2345",
+    "stars": 1,
+    "introduction": "專注於當地食材的創新菜餚，並提供全景海港景色。"
+  },
+  {
+    "name": "喜悅",
+    "address": "香港尖沙咀廣東道118號",
+    "sub_district": "尖沙咀",
+    "tel": "+852 9012 3456",
+    "stars": 1,
+    "introduction": "以其精緻的點心和廣東料理而聞名，深受食客喜愛。"
+  },
+  {
+    "name": "大班樓",
+    "address": "香港灣仔莊士倫道9號",
+    "sub_district": "灣仔",
+    "tel": "+852 0123 4567",
+    "stars": 1,
+    "introduction": "提供傳統廣東美食，並以其優雅的環境而聞名。"
+  },
+  {
+    "name": "翠華餐廳",
+    "address": "香港旺角彌敦道2號",
+    "sub_district": "旺角",
+    "tel": "+852 1234 5678",
+    "stars": 1,
+    "introduction": "一家著名的茶餐廳，以其經典的港式菜餚和舒適的氛圍著稱。"
+  },
+  {
+    "name": "源味",
+    "address": "香港中環干諾道中12號",
+    "sub_district": "中環",
+    "tel": "+852 2345 6789",
+    "stars": 1,
+    "introduction": "專注於創意廣東菜，結合傳統技術和現代風味。"
+  },
+  {
+    "name": "和樂",
+    "address": "香港尖沙咀海港城",
+    "sub_district": "尖沙咀",
+    "tel": "+852 3456 7890",
+    "stars": 1,
+    "introduction": "提供高檔日本料理，著重於新鮮食材和精緻的擺盤。"
+  },
+  {
+    "name": "天鵝堡",
+    "address": "香港中環蘭桂坊",
+    "sub_district": "中環",
+    "tel": "+852 4567 8901",
+    "stars": 1,
+    "introduction": "以其優雅的環境和創新的法國菜而廣受好評。"
+  },
+  {
+    "name": "雅苑",
+    "address": "香港銅鑼灣希慎道3號",
+    "sub_district": "銅鑼灣",
+    "tel": "+852 5678 9012",
+    "stars": 1,
+    "introduction": "專注於精緻的粵菜，結合傳統與現代的烹飪技術。"
+  },
+  {
+    "name": "美心皇宮",
+    "address": "香港旺角彌敦道250號",
+    "sub_district": "旺角",
+    "tel": "+852 6789 0123",
+    "stars": 1,
+    "introduction": "以其精緻的廣東料理和高端的用餐環境而聞名。"
+  },
+  {
+    "name": "新记",
+    "address": "香港中環蘇豪區",
+    "sub_district": "中環",
+    "tel": "+852 7890 1234",
+    "stars": 1,
+    "introduction": "提供經典的港式小吃和傳統廣東菜，深受當地人喜愛。"
+  },
+  {
+    "name": "桃花源",
+    "address": "香港中環干諾道中5號",
+    "sub_district": "中環",
+    "tel": "+852 8901 2345",
+    "stars": 1,
+    "introduction": "以其精緻的江南菜而聞名，提供優雅的用餐體驗。"
+  },
+  {
+    "name": "名軒",
+    "address": "香港銅鑼灣渣甸坊9號",
+    "sub_district": "銅鑼灣",
+    "tel": "+852 9012 3456",
+    "stars": 1,
+    "introduction": "專注於現代廣東菜，結合傳統風味與創新技術。"
+  },
+  {
+    "name": "燒肉野",
+    "address": "香港灣仔爾巷6號",
+    "sub_district": "灣仔",
+    "tel": "+852 0123 4567",
+    "stars": 1,
+    "introduction": "以其高品質的燒肉和獨特的調味而著稱，受食客喜愛。"
+  },
+  {
+    "name": "星星餐廳",
+    "address": "香港旺角彌敦道100號",
+    "sub_district": "旺角",
+    "tel": "+852 1234 5678",
+    "stars": 1,
+    "introduction": "提供多樣化的港式菜餚，氣氛輕鬆愉快。"
+  },
+  {
+    "name": "佳瑪",
+    "address": "香港中環德輔道中56號",
+    "sub_district": "中環",
+    "tel": "+852 2345 6789",
+    "stars": 1,
+    "introduction": "專注於地道的廣東菜，以新鮮的食材和精緻的呈現而聞名。"
+  },
+  {
+    "name": "珊瑚海",
+    "address": "香港中環德輔道中30號",
+    "sub_district": "中環",
+    "tel": "+852 3456 7890",
+    "stars": 1,
+    "introduction": "提供新鮮的海鮮和創新的菜餚，深受食客喜愛。"
+  },
+  {
+    "name": "金滿樓",
+    "address": "香港旺角彌敦道245號",
+    "sub_district": "旺角",
+    "tel": "+852 6789 0123",
+    "stars": 1,
+    "introduction": "以其獨特的港式燒臘而聞名，並提供舒適的用餐環境。"
+  },
+  {
+    "name": "珍味軒",
+    "address": "香港銅鑼灣希慎道21號",
+    "sub_district": "銅鑼灣",
+    "tel": "+852 7890 1234",
+    "stars": 1,
+    "introduction": "專注於精緻的粵菜，並提供高品質的用餐體驗。"
+  },
+  {
+    "name": "新加坡美食",
+    "address": "香港中環皇后大道中30號",
+    "sub_district": "中環",
+    "tel": "+852 8901 2345",
+    "stars": 1,
+    "introduction": "提供多樣的東南亞美食，環境雅緻。"
+  },
+  {
+    "name": "京華大酒樓",
+    "address": "香港灣仔道113號",
+    "sub_district": "灣仔",
+    "tel": "+852 9012 3456",
+    "stars": 1,
+    "introduction": "以其地道的北京菜而聞名，並提供優雅的用餐體驗。"
+  },
+  {
+    "name": "昌記小館",
+    "address": "香港九龍城寨街12號",
+    "sub_district": "九龍城",
+    "tel": "+852 0123 4567",
+    "stars": 1,
+    "introduction": "提供經典的港式小吃，深受當地人喜愛。"
+  },
+  {
+    "name": "海天盛筵",
+    "address": "香港中環海港大廈",
+    "sub_district": "中環",
+    "tel": "+852 1234 5678",
+    "stars": 1,
+    "introduction": "提供高端海鮮和精緻的中式料理，深受食客喜愛。"
+  },
+  {
+    "name": "清新小館",
+    "address": "香港銅鑼灣百德街2號",
+    "sub_district": "銅鑼灣",
+    "tel": "+852 2345 6789",
+    "stars": 1,
+    "introduction": "以新鮮的食材和創新的烹飪技術而聞名，提供獨特的用餐體驗。"
+  },
+  {
+    "name": "大快活",
+    "address": "香港旺角彌敦道188號",
+    "sub_district": "旺角",
+    "tel": "+852 3456 7890",
+    "stars": 1,
+    "introduction": "提供經典的港式快餐和小吃，讓食客感受地道風味。"
+  },
+  {
+    "name": "天香樓",
+    "address": "香港中環德輔道中10號",
+    "sub_district": "中環",
+    "tel": "+852 4567 8901",
+    "stars": 1,
+    "introduction": "專注於高品質的四川菜，以其獨特的風味而聞名。"
+  },
+  {
+    "name": "食神",
+    "address": "香港尖沙咀海港城",
+    "sub_district": "尖沙咀",
+    "tel": "+852 5678 9012",
+    "stars": 1,
+    "introduction": "提供多樣化的中華美食，以其創意和精緻的菜餚而廣受好評。"
+  },
+  {
+    "name": "樂天",
+    "address": "香港灣仔莊士倫道5號",
+    "sub_district": "灣仔",
+    "tel": "+852 6789 0123",
+    "stars": 1,
+    "introduction": "專注於地道的韓國料理，環境舒適，適合聚會。"
+  },
+  {
+    "name": "未來食堂",
+    "address": "香港中環蘭桂坊8號",
+    "sub_district": "中環",
+    "tel": "+852 7890 1234",
+    "stars": 1,
+    "introduction": "提供創新的素食料理，注重健康和環保。"
+  },
+  {
+    "name": "懷舊小館",
+    "address": "香港尖沙咀彌敦道88號",
+    "sub_district": "尖沙咀",
+    "tel": "+852 8901 2345",
+    "stars": 1,
+    "introduction": "以其懷舊的港式美食和懷舊氛圍而聞名。"
+  },
+  {
+    "name": "皇朝大酒樓",
+    "address": "香港中環德輔道中20號",
+    "sub_district": "中環",
+    "tel": "+852 9012 3456",
+    "stars": 1,
+    "introduction": "提供高端的廣東菜，並以其優雅的環境而聞名。"
+  },
+  {
+    "name": "香格里拉",
+    "address": "香港九龍塘，又一城3樓",
+    "sub_district": "九龍塘",
+    "tel": "+852 0123 4567",
+    "stars": 1,
+    "introduction": "以其精緻的中式料理和優雅的氛圍而受到讚譽。"
+  },
+  {
+    "name": "金碧輝煌",
+    "address": "香港灣仔道82號",
+    "sub_district": "灣仔",
+    "tel": "+852 1234 5678",
+    "stars": 1,
+    "introduction": "提供高端的粵菜，以其精緻的擺盤和創意而聞名。"
+  },
+  {
+    "name": "富貴樓",
+    "address": "香港中環美利道2號",
+    "sub_district": "中環",
+    "tel": "+852 2345 6789",
+    "stars": 1,
+    "introduction": "提供經典的廣東美食和優雅的就餐環境。"
+  },
+  {
+    "name": "味道",
+    "address": "香港尖沙咀廣東道78號",
+    "sub_district": "尖沙咀",
+    "tel": "+852 3456 7890",
+    "stars": 1,
+    "introduction": "專注於創意的中式料理，融合了多種烹飪技術。"
+  },
+  {
+    "name": "金豐酒家",
+    "address": "香港灣仔道99號",
+    "sub_district": "灣仔",
+    "tel": "+852 4567 8901",
+    "stars": 1,
+    "introduction": "以其獨特的港式燒臘和點心而聞名，深受食客喜愛。"
+  },
+  {
+    "name": "桃花源",
+    "address": "香港尖沙咀彌敦道88號",
+    "sub_district": "尖沙咀",
+    "tel": "+852 5678 9012",
+    "stars": 1,
+    "introduction": "專注於精緻的粵菜，並提供優雅的用餐環境。"
+  },
+  {
+    "name": "獅子山",
+    "address": "香港中環德輔道中10號",
+    "sub_district": "中環",
+    "tel": "+852 6789 0123",
+    "stars": 1,
+    "introduction": "提供傳統的廣東菜和精緻的海鮮料理，深受食客喜愛。"
+  },
+  {
+    "name": "海鮮王國",
+    "address": "香港中環干諾道中70號",
+    "sub_district": "中環",
+    "tel": "+852 7890 1234",
+    "stars": 1,
+    "introduction": "以新鮮的海鮮和創新的烹飪技術而聞名。"
+  }
 ]
