@@ -81,7 +81,7 @@ const ParkingCardList = ({ cards, vacancies }) => {
           <Link to={`/parking/card/${card.park_Id}`} state={{card}} key={card.park_Id}>
             <div className="card">
               <h3>{card.name}</h3>
-              <p>{card.displayAddress}</p>
+              <p><i class="fa-solid fa-location-dot"></i> {card.displayAddress}</p>
               <p>地區: {card.district}</p>
               <p>空置車位: {vacancies?.map((vacancy)=>{if (vacancy.park_Id==card.park_Id) {return vacancy.privateCar?.map((car)=>car.vacancy)}})}</p>
               <p>最後更新: {vacancies?.map((vacancy)=>{if (vacancy.park_Id==card.park_Id) {return vacancy.privateCar?.map((car)=>car.lastupdate)}})}</p>
