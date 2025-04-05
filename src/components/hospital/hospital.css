@@ -34,6 +34,7 @@
 
 .card-container:hover {
   background: rgb(125, 18, 18);
+  text-decoration: none;
   transform: scale(1.02);
 } 
 a:hover {
