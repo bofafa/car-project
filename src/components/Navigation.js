@@ -64,7 +64,7 @@ function Navigation() {
                   <span class="input-group-text border-0" id="search-addon">
                     <i class="fas fa-search"></i>
                   </span>
-                </div>
+              </div>
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
                   <NavLink className="nav-link" to="/">
