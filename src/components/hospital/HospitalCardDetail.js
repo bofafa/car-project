@@ -1,4 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
+import './hospital.css';
 
 const CardDetail = () => {
 
@@ -10,7 +11,7 @@ const CardDetail = () => {
   if (!card) return <p>Card not found!</p>;
   
   return (
-    <div>
+    <div className="card-container">
       <h1>Card Details</h1>
       <h2>{card.institution_tc}</h2>
       <p>{card.address_tc}</p>

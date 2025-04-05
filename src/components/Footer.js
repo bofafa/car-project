@@ -1,5 +1,4 @@
 import React from "react";
-import { AiFillCopyrightCircle } from "react-icons/ai";
 
 function Footer() {
   return (
