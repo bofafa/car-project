@@ -1,0 +1,1106 @@
+[
+  {
+    "hotel_name": "99 Bonham",
+    "address": "香港上環文咸東街 99 號",
+    "tel": "3940 1111",
+    "fax": "-",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "歷山酒店",
+    "address": "香港北角城市花園道 32 號",
+    "tel": "3893 2888",
+    "fax": "3893 2999",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝逸酒店",
+    "address": "新界沙田源康街 1 號",
+    "tel": "3653 1111",
+    "fax": "3653 1122",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港越秀雅詩閣服務公寓",
+    "address": "香港北角渣華道 67-75 號",
+    "tel": "3610 6388",
+    "fax": "-",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "香港愉景灣酒店",
+    "address": "香港大嶼山愉景灣海澄湖畔路 88 號",
+    "tel": "2295 8288",
+    "fax": "2295 8188",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "華麗銅鑼灣酒店",
+    "address": "香港銅鑼灣堅拿道西祥和里",
+    "tel": "2496 6666",
+    "fax": "2836 6206",
+    "stars": 3,
+    "buffet": false
+  },
+  {
+    "hotel_name": "華大盛品酒店",
+    "address": "香港德輔道西 308 號",
+    "tel": "3410 3333",
+    "fax": "2559 8499",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "最佳盛品酒店尖沙咀",
+    "address": "九龍尖沙咀漆咸道南 73-75 號",
+    "tel": "2311 1100",
+    "fax": "2311 6000",
+    "stars": 3,
+    "buffet": false
+  },
+  {
+    "hotel_name": "宏基國際賓館",
+    "address": "香港半山羅便臣道 4 號",
+    "tel": "2868 0828",
+    "fax": "2868 1551",
+    "stars": 3,
+    "buffet": false
+  },
+  {
+    "hotel_name": "銅鑼灣利景酒店",
+    "address": "香港灣仔道 209-219 號",
+    "tel": "2833 5566",
+    "fax": "2833 5888",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "城市花園酒店",
+    "address": "香港北角城市花園 9 號",
+    "tel": "2887 2888",
+    "fax": "2887 1111",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "城景國際",
+    "address": "九龍油麻地窩打老道 23 號",
+    "tel": "2783 3888",
+    "fax": "2783 3899",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "港麗酒店",
+    "address": "香港金鐘道 88 號太古廣場",
+    "tel": "2521 3838",
+    "fax": "2521 3888",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港康得思酒店",
+    "address": "九龍旺角上海街 555 號",
+    "tel": "3552 3388",
+    "fax": "3552 3322",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港麗悅酒店",
+    "address": "香港灣仔皇后大道東 375-377 號",
+    "tel": "3552 8388",
+    "fax": "3552 8399",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港萬怡酒店",
+    "address": "香港干諾道西 167 號",
+    "tel": "3717 8888",
+    "fax": "3717 8228",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港沙田萬怡酒店",
+    "address": "新界沙田安平街 1 號",
+    "tel": "3940 8888",
+    "fax": "3940 8828",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港九龍東皇冠假日酒店",
+    "address": "九龍將軍澳 3 號唐德街",
+    "tel": "3983 0388",
+    "fax": "3983 0399",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "迪士尼探索家度假酒店",
+    "address": "香港大嶼山香港迪士尼樂園度假區",
+    "tel": "3510 2000",
+    "fax": "3510 2333",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港迪士尼樂園酒店",
+    "address": "香港大嶼山香港迪士尼樂園度假區",
+    "tel": "3510 6000",
+    "fax": "3510 6333",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "迪士尼好萊塢酒店",
+    "address": "香港大嶼山香港迪士尼樂園度假區",
+    "tel": "3510 5000",
+    "fax": "3510 5333",
+    "stars": 4,
+    "buffet": true
+  },
+
+  {
+    "hotel_name": "香港觀塘帝盛酒店",
+    "address": "九龍觀塘鴻圖道 84 號",
+    "tel": "3989 6888",
+    "fax": "3989 6868",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "香港旺角帝盛酒店",
+    "address": "九龍大角咀道 88 號",
+    "tel": "3987 2288",
+    "fax": "3987 2299",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "香港荃灣帝盛酒店",
+    "address": "九龍葵涌健全街 28 號",
+    "tel": "3996 6666",
+    "fax": "3996 6668",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "香港灣仔帝盛酒店",
+    "address": "香港灣仔皇后大道東 387-397 號",
+    "tel": "3552 1111",
+    "fax": "3552 1122",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "東隅",
+    "address": "香港港島東太古城道 29 號",
+    "tel": "3968 3968",
+    "fax": "3968 3988",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "香港逸東酒店",
+    "address": "九龍彌敦道 380 號",
+    "tel": "2782 1818",
+    "fax": "2782 5563",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "銅鑼灣皇悅酒店",
+    "address": "香港銅鑼灣永興街 8 號",
+    "tel": "3692 2333",
+    "fax": "3692 2300",
+    "stars": 4,
+    "buffet": false
+  },
+  {
+    "hotel_name": "灣仔皇悅酒店",
+    "address": "香港灣仔軒尼詩道 33 號",
+    "tel": "3692 2111",
+    "fax": "3692 2100",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "尖沙咀皇悅酒店",
+    "address": "九龍尖沙咀金巴利道 62 號",
+    "tel": "3692 2222",
+    "fax": "3692 2200",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港東涌福朋喜來登酒店",
+    "address": "香港新界大嶼山東涌怡東路 9 號",
+    "tel": "2352 8000",
+    "fax": "2352 8011",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港四季酒店",
+    "address": "香港中環金融街 8 號",
+    "tel": "3196 8888",
+    "fax": "3196 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港富麗敦海洋公園酒店",
+    "address": "香港南區深灣海洋徑 3 號",
+    "tel": "2166 7388",
+    "fax": "2166 7399",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "港威酒店",
+    "address": "九龍尖沙咀廣東道 13 號海港城",
+    "tel": "2113 0888",
+    "fax": "2113 0022",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "六國酒店",
+    "address": "香港灣仔告士打道 72 號",
+    "tel": "2866 2166",
+    "fax": "2866 2622",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港黃金海岸酒店",
+    "address": "九龍青山公路青山灣段 1 號",
+    "tel": "2452 8888",
+    "fax": "2440 7368",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港君悅酒店",
+    "address": "香港灣仔港灣道 1 號",
+    "tel": "2588 1234",
+    "fax": "2802 0677",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "港島海逸君綽酒店",
+    "address": "香港北角油街 23 號",
+    "tel": "2121 2688",
+    "fax": "2121 2699",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "九龍海逸君綽酒店",
+    "address": "九龍紅磡德豐街 20 號",
+    "tel": "2621 3188",
+    "fax": "2621 3311",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "8 度海逸酒店",
+    "address": "香港土瓜灣九龍城道 199 號",
+    "tel": "2126 1988",
+    "fax": "2126 1900",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "都會海逸酒店",
+    "address": "九龍紅磡都會道 7 號",
+    "tel": "3160 6888",
+    "fax": "3160 6999",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "北角海逸酒店",
+    "address": "香港北角英皇道 665 號",
+    "tel": "2187 8888",
+    "fax": "2187 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "嘉湖海逸酒店",
+    "address": "新界天水圍天恩路 18 號",
+    "tel": "2180 6688",
+    "fax": "2180 6333",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "灣景國際",
+    "address": "香港灣仔港灣道 4 號",
+    "tel": "2802 0111",
+    "fax": "2802 9063",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "The HarbourView Place",
+    "address": "九龍柯士甸道一號",
+    "tel": "3718 8888",
+    "fax": "3718 8080",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港銅鑼灣智選假日酒店",
+    "address": "香港銅鑼灣霎東街 33 號",
+    "tel": "3558 6688",
+    "fax": "3558 6633",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港九龍 CBD2 智選假日酒店",
+    "address": "九龍觀塘巧明街 97 號",
+    "tel": "3890 2888",
+    "fax": "3890 2800",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港金域假日酒店",
+    "address": "九龍尖沙咀彌敦道 50 號",
+    "tel": "2369 3111",
+    "fax": "2369 8016",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "合和酒店",
+    "address": "香港灣仔堅尼地道 15 號",
+    "tel": "2620 3000",
+    "fax": "2620 3038",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港維港凱悅尚萃酒店",
+    "address": "香港北角北角邨里一號",
+    "tel": "3762 1234",
+    "fax": "3762 1235",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港沙田凱悅酒店",
+    "address": "香港新界沙田澤祥街 18 號",
+    "tel": "3723 1234",
+    "fax": "3723 1235",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港尖沙咀凱悅酒店",
+    "address": "香港九龍尖沙咀河內道 18 號",
+    "tel": "2311 1234",
+    "fax": "3721 1235",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "宜必思香港中上環酒店",
+    "address": "香港上環德輔道西 28 號",
+    "tel": "2252 2929",
+    "fax": "2252 2900",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "唯港薈",
+    "address": "香港尖沙咀東部科學館道 17 號",
+    "tel": "3400 1000",
+    "fax": "3400 1001",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝國酒店",
+    "address": "九龍尖沙咀彌敦道 32-34 號",
+    "tel": "2366 2201",
+    "fax": "2311 2360",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "海景嘉福酒店",
+    "address": "九龍尖沙咀東部麼地道 70 號",
+    "tel": "2721 5161",
+    "fax": "2732 2233",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "港島太平洋酒店",
+    "address": "香港干諾道西 152 號",
+    "tel": "2131 1188",
+    "fax": "2131 1212",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "港島香格里拉",
+    "address": "香港中環法院道太古廣場",
+    "tel": "2877 3838",
+    "fax": "2521 8742",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港今旅",
+    "address": "香港西環皇后大道西 508 號",
+    "tel": "2974 1234",
+    "fax": "2974 0333"
+  },
+  {
+    "hotel_name": "香港 JW 萬豪酒店",
+    "address": "香港金鐘道 88 號太古廣場 1 號",
+    "tel": "2810 8366",
+    "fax": "2845 0737",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "K11 ARTUS",
+    "address": "K11 ARTUS 寓館, Victoria Dockside, 九龍尖沙咀梳士巴利道 18 號",
+    "tel": "2107 3388",
+    "fax": "2107 3399",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港嘉里酒店",
+    "address": "九龍紅磡灣紅鸞道 38 號",
+    "tel": "2252 5888",
+    "fax": "-",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港灣仔睿景酒店",
+    "address": "香港灣仔軒尼詩道 41-49 號",
+    "tel": "2861 1166",
+    "fax": "2865 6111",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "君怡酒店",
+    "address": "九龍尖沙咀金巴利道 28 號",
+    "tel": "2700 6688",
+    "fax": "2723 1318",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "九龍酒店",
+    "address": "九龍尖沙咀彌敦道 19-21 號",
+    "tel": "2929 2888",
+    "fax": "2739 9811",
+    "stars": 4,
+    "buffet": true
+  },
+
+  {
+    "hotel_name": "九龍香格里拉",
+    "address": "九龍尖沙咀東部麼地道 64 號",
+    "tel": "2721 2111",
+    "fax": "2723 8686",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "蘭桂坊酒店",
+    "address": "香港中環九如坊 3 號",
+    "tel": "3650 0000",
+    "fax": "3650 0088",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港朗廷酒店",
+    "address": "九龍尖沙咀北京道 8 號",
+    "tel": "2375 1133",
+    "fax": "2375 6611",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港逸蘭銅鑼灣酒店",
+    "address": "香港銅鑼灣禮頓道 133 號",
+    "tel": "3477 6888",
+    "fax": "3477 6999",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "朗逸酒店",
+    "address": "九龍油麻地南京街 30 號",
+    "tel": "2783 8233",
+    "fax": "2783 1318",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "數碼港艾美酒店",
+    "address": "香港數碼港道 100 號",
+    "tel": "2980 7788",
+    "fax": "2980 7888",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "旺角薈賢居",
+    "address": "九龍旺角廣東道 1131 號",
+    "tel": "3968 7777",
+    "fax": "3968 7788",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝樂文娜公館",
+    "address": "九龍尖沙咀金巴利道 39 號",
+    "tel": "3763 8888",
+    "fax": "3763 8899",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "木的地酒店",
+    "address": "九龍佐敦長樂街 1 號",
+    "tel": "2121 9888",
+    "fax": "2121 9890",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港文華東方酒店",
+    "address": "香港中環干諾道中 5 號",
+    "tel": "2522 0111",
+    "fax": "2810 6190",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "馬哥孛羅香港酒店",
+    "address": "九龍尖沙咀廣東道 3 號海港城",
+    "tel": "2113 0088",
+    "fax": "2113 0011",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港銅鑼灣維景酒店",
+    "address": "香港銅鑼灣銅鑼灣道 148 號",
+    "tel": "2600 1000",
+    "fax": "2600 1111",
+    "stars": 4,
+    "buffet": true
+  },
+  {
+    "hotel_name": "旺角維景酒店",
+    "address": "九龍旺角荔枝角道 22 號",
+    "tel": "2397 6683",
+    "fax": "2381 3768",
+    "stars": 3,
+    "buffet": true
+  },
+  {
+    "hotel_name": "The Mira Hong Kong",
+    "address": "九龍尖沙咀彌敦道 118-130 號美麗華廣場",
+    "tel": "2368 1111",
+    "fax": "2369 1788",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "Mira Moon",
+    "address": "香港銅鑼灣謝斐道 388 號",
+    "tel": "2643 3888",
+    "fax": "2643 8999",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "The Murray, Hong Kong, a Niccolo Hotel",
+    "address": "香港中環紅棉道 22 號美利大廈",
+    "tel": "3141 8888",
+    "fax": "3141 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "彌敦酒店",
+    "address": "九龍彌敦道 378 號",
+    "tel": "2388 5141",
+    "fax": "2780 1643",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "千禧新世界香港酒店",
+    "address": "九龍尖沙咀東部麼地道 72 號",
+    "tel": "2739 1111",
+    "fax": "2311 3122",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "銅鑼灣如心酒店",
+    "address": "香港銅鑼灣英皇道 18 號",
+    "tel": "3553 2898",
+    "fax": "3553 2888",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "南灣如心酒店",
+    "address": "香港香港仔黃竹坑道 55 號",
+    "tel": "3968 8888",
+    "fax": "3968 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "九龍東如心酒店",
+    "address": "九龍觀塘創業街 38 號",
+    "tel": "3968 8666",
+    "fax": "3968 8333",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "荃灣西如心酒店",
+    "address": "香港荃灣楊屋道 8 號",
+    "tel": "2280 2898",
+    "fax": "2280 2822",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港諾富特世紀酒店",
+    "address": "香港灣仔謝斐道 238 號",
+    "tel": "2598 8888",
+    "fax": "2598 8866",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "諾富特東薈城酒店",
+    "address": "香港東涌文東路 51 號",
+    "tel": "3602 8888",
+    "fax": "3602 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港粵海酒店",
+    "address": "九龍尖沙咀寶勒巷 18 號",
+    "tel": "3410 8888",
+    "fax": "2721 1137",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港海洋公園萬豪酒店",
+    "address": "香港香港仔黃竹坑道 180 號",
+    "tel": "3555 1688",
+    "fax": "3555 1689",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "遨凱酒店",
+    "address": "九龍大角咀海輝道 18 號",
+    "tel": "3199 8888",
+    "fax": "3199 8899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "Page148",
+    "address": "香港尖沙咀柯士甸道 148 號",
+    "tel": "3844 8888",
+    "fax": "3844 8800",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "悦來酒店",
+    "address": "九龍荃灣荃華街 3 號",
+    "tel": "2409 1111",
+    "fax": "2409 1818",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "百樂酒店",
+    "address": "九龍尖沙咀漆咸道南 61-65 號",
+    "tel": "2731 2100",
+    "fax": "2739 7259",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "柏寧酒店",
+    "address": "香港銅鑼灣告士打道 310 號",
+    "tel": "2293 8888",
+    "fax": "2576 7853",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港半島酒店",
+    "address": "九龍尖沙咀梳士巴利道",
+    "tel": "2920 2888",
+    "fax": "2722 4170",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港屯門貝爾特酒店",
+    "address": "香港屯門震寰路 6 號",
+    "tel": "3112 1138",
+    "fax": "3112 1183",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "中環．石板街酒店",
+    "address": "香港中環皇后大道中 74 號",
+    "tel": "2308 3188",
+    "fax": "2308 3198",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "寶御酒店",
+    "address": "九龍尖沙咀北京道 10 號",
+    "tel": "3188 7888",
+    "fax": "3188 7899",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "太子酒店",
+    "address": "九龍尖沙咀廣東道 23 號海港城",
+    "tel": "2113 1888",
+    "fax": "2113 0066",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "恆豐酒店",
+    "address": "九龍尖沙咀彌敦道 222 號",
+    "tel": "2311 8222",
+    "fax": "2311 4760",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "華美達華麗酒店",
+    "address": "九龍尖沙咀柯士甸路 23 號",
+    "tel": "3122 6222",
+    "fax": "2730 9328",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "華美達海景酒店",
+    "address": "香港皇后大道西 239 號",
+    "tel": "2599 9888",
+    "fax": "2559 1266",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "青逸酒店",
+    "address": "新界青衣青衣路一號",
+    "tel": "2129 1188",
+    "fax": "2129 1199",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "富豪機場酒店",
+    "address": "香港赤鱲角暢達道 9 號",
+    "tel": "2286 8888",
+    "fax": "2286 8686",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "富豪香港酒店",
+    "address": "香港銅鑼灣怡和街 88 號",
+    "tel": "2890 6633",
+    "fax": "2881 0777",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "富豪九龍酒店",
+    "address": "九龍尖沙咀東部麼地道 71 號",
+    "tel": "2722 1818",
+    "fax": "2369 6950",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "富豪東方酒店",
+    "address": "九龍九龍城沙埔道 30-38 號",
+    "tel": "2718 0333",
+    "fax": "2718 4111",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "麗豪酒店",
+    "address": "新界沙田大涌橋路 34-36 號",
+    "tel": "2649 7878",
+    "fax": "2637 4748",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "麗豪航天城酒店",
+    "address": "香港赤鱲角香港國際機場行航展道 8 號",
+    "tel": "3556 3288",
+    "fax": "3556 3299",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港麗晶酒店",
+    "address": "九龍尖沙咀梳士巴利道 18 號",
+    "tel": "2721 1211",
+    "fax": "2313 2038",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港萬麗海景酒店",
+    "address": "香港灣仔港灣道 1 號",
+    "tel": "2802 8888",
+    "fax": "2802 8833",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港麗思卡爾頓酒店",
+    "address": "香港九龍柯士甸道西一號",
+    "tel": "2263 2263",
+    "fax": "2263 2260",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港珀麗酒店",
+    "address": "香港銅鑼灣信德街 8 號",
+    "tel": "2127 8888",
+    "fax": "2127 3333",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港瑰麗酒店",
+    "address": "香港九龍尖沙咀梳士巴利道 18 號",
+    "tel": "3891 8888",
+    "fax": "3891 8000",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝苑酒店",
+    "address": "九龍尖沙咀東部麼地道 69 號",
+    "tel": "2721 5215",
+    "fax": "2369 9976",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "皇家太平洋酒店",
+    "address": "九龍尖沙咀廣東道 33 號中港城",
+    "tel": "2736 1188",
+    "fax": "2736 1212",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝都酒店",
+    "address": "新界沙田白鶴汀街 8 號",
+    "tel": "2601 2111",
+    "fax": "2601 3666",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝京酒店",
+    "address": "九龍太子道西 193 號",
+    "tel": "2928 8822",
+    "fax": "2606 0088",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "帝景酒店",
+    "address": "香港荃灣汀九青山道 353 號",
+    "tel": "3716 2888",
+    "fax": "3716 2999",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港喜來登酒店",
+    "address": "九龍尖沙咀彌敦道 20 號",
+    "tel": "2369 1111",
+    "fax": "2739 8707",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港東涌世茂喜來登酒店",
+    "address": "香港新界大嶼山東涌怡東路 9 號",
+    "tel": "2535 0000",
+    "fax": "2535 0011",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港遠東絲麗酒店",
+    "address": "香港九龍荃灣青山道 135-143 號",
+    "tel": "2406 9090",
+    "fax": "3657 2828",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港海景絲麗酒店",
+    "address": "九龍油麻地上海街 268 號",
+    "tel": "2782 0882",
+    "fax": "2781 8800",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港荃灣絲麗酒店",
+    "address": "香港新界葵涌和宜合道 119 號",
+    "tel": "3700 3888",
+    "fax": "3700 3838",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港銀樾美憬閣精選酒店",
+    "address": "香港東涌達東路 16 號",
+    "tel": "3602 8989",
+    "fax": "3602 8990",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港天際萬豪酒店",
+    "address": "香港大嶼山香港國際機場航天城東路一號",
+    "tel": "3969 1888",
+    "fax": "3969 2288",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "尚豪酒店",
+    "address": "香港上環文咸東街 139-141 號",
+    "tel": "2851 8818",
+    "fax": "2851 9933",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "南洋酒店",
+    "address": "香港灣仔摩利臣山道 23 號",
+    "tel": "2572 3838",
+    "fax": "2893 7773",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "香港瑞吉酒店",
+    "address": "香港灣仔港灣徑 1 號",
+    "tel": "2138 6888",
+    "fax": "2138 6886",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "登臺酒店",
+    "address": "香港九龍佐敦志和街一號",
+    "tel": "3953 2222",
+    "fax": "3953 2200",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "仕德福酒店",
+    "address": "九龍旺角豉油街 118 號",
+    "tel": "2781 1881",
+    "fax": "2388 3733",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "仕德福山景酒店",
+    "address": "九龍尖沙咀天文台道 13-17 號",
+    "tel": "2722 7822",
+    "fax": "2723 3718",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "奕居",
+    "address": "香港金鐘道 88 號太古廣場",
+    "tel": "3968 1000",
+    "fax": "3968 1200",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "星峰薈",
+    "address": "九龍將軍澳 3 號唐德街",
+    "tel": "3963 7888",
+    "fax": "-",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "W Hong Kong",
+    "address": "九龍柯士甸道西 1 號地鐵九龍站",
+    "tel": "3717 2222",
+    "fax": "3717 2888",
+    "stars": 5,
+    "buffet": true
+  },
+  {
+    "hotel_name": "長洲華威酒店",
+    "address": "香港長洲東灣",
+    "tel": "2981 0976",
+    "fax": "2981 9174",
+    "stars": 3,
+    "buffet": true
+  }
+]
