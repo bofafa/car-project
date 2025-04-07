@@ -6,7 +6,7 @@
 } */
 
 /* Master hotel CSS */
-/*.card {
+.card {
   margin:30px;
   border: 1px solid #ccc;
   padding: 20px;
@@ -19,7 +19,7 @@
 .card:hover {
   background: lightgray;
   transform: scale(1.02);
-} */
+} 
 
 /* Suggested by Lun - 6April */
 /*Style1 Warm & Cozy   */
@@ -77,14 +77,14 @@
   box-shadow: 0 4px 12px rgba(79, 195, 247, 0.1);  
 } 
 /* Add a subtle "Book Now" prompt on hover */ 
-.card:hover::before {  
+/*.card:hover::before {  
   content: "View Details →";  
   position: absolute;  
   bottom: 15px;  
   right: 15px;  
   color: var(--hotel-blue);  
   font-size: 0.9em;  
-}
+} */
 
 /* Style3 -Classic*/
 /*
