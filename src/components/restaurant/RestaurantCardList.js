@@ -83,7 +83,7 @@ const CardList = ({ cards }) => {
             <div className="card">
               <h3>{card.name}</h3>
               <p>{card.sub_district}</p>
-              <p> <i class="fa-solid fa-location-dot"></i> {card.address}</p>
+              <p> <i class="fa-solid fa-location-dot"></i>  {card.address}</p>
               <p>Tel: {card.tel}</p>
               <p>米芝蓮: {card.stars} <i class="fa-solid fa-star"></i></p>
             </div>
