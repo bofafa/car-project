@@ -1,5 +1,5 @@
 import React, {useState, useEffect }  from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import axios from "axios";
 import DateTimeComponent from "./DateTimeComponent";
 
@@ -9,6 +9,7 @@ function Navigation() {
     const [humidity, setHumidity] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
+    const [initSearch, setinitSearch] = useState("");
  
   
     useEffect(() => {
@@ -33,22 +34,24 @@ function Navigation() {
     console.log(temperature);
 
     console.log(humidity);
+
+    console.log(initSearch);
     
 
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-dark sticky-top" id="mainNav">
+    <nav className="navbar navbar-expand-xl navbar-dark bg-dark sticky-top" id="mainNav">
       <div className="container">
           <NavLink className="navbar-brand" to="/">
             <div>
-            <i class="fa-solid fa-car fa-2xl"></i>
-              Driving
+            <i class="fa-solid fa-car fa-bounce fa-2xl"></i>
+            自駕樂          
               {humidity < 50 && (
                 <i class="fa-solid fa-sun"></i>
               )}
-              {humidity >= 50 && humidity <= 65 && (
-                <i class="fa-solid fa-clouds-sun"></i>
+              {(humidity >= 50 && humidity <65) && (
+                <i class="fa-solid fa-cloud-sun"></i>
               )}
-              {humidity > 65 && (
+              {humidity >= 65 && (
                 <i class="fa-solid fa-cloud-rain"></i>
               )}
               <i className="fa-solid fa-temperature-half"></i>{temperature[18]}&deg;C
@@ -60,9 +63,10 @@ function Navigation() {
           <button className="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div className="collapse navbar-collapse justify-content-end" id="navbarResponsive">
               <div class="input-group rounded">
-                  <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+                  <input type="search" class="form-control rounded" name="sub-district" value={initSearch}
+                    onChange={(e) => setinitSearch(e.target.value)} placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
                   <span class="input-group-text border-0" id="search-addon">
-                    <i class="fas fa-search"></i>
+                  <Link to="/parking" state={{initSearch}}><i class="fas fa-search"></i></Link>
                   </span>
               </div>
               <ul className="navbar-nav ml-auto">

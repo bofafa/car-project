@@ -1,6 +1,6 @@
 import './parking.css';
 import React, { useState, useEffect } from "react";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, useLocation } from "react-router-dom";
 import axios from "axios";
 import ParkingCardList from "./ParkingCardList";
 import ParkingCardDetail from './ParkingCardDetail';
@@ -11,6 +11,8 @@ const Parking = () => {
   const [vacancies, setVacancies] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  
  
 
   useEffect(() => {
@@ -47,7 +49,7 @@ const Parking = () => {
 
   return (
       <Routes>
-        <Route path="/" element={<ParkingCardList cards={cards} vacancies={vacancies}/>} />
+        <Route path="/" element={<ParkingCardList cards={cards} vacancies={vacancies} />} />
         <Route path="/card/:id" element={<ParkingCardDetail cards={cards} />} />
       </Routes>
   )
