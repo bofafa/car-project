@@ -1,15 +1,20 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
-const ParkingCardList = ({ cards, vacancies }) => {  
+const ParkingCardList = ({ cards, vacancies}) => {  
 
-  const [search, setSearch] = useState("");      
+    const location = useLocation();
+    
+    const initSearch = location.state?.initSearch;
 
-  const filteredCards = cards?.filter((card) =>
-    card.displayAddress.includes(search)
-  );
+    const [search, setSearch] = useState(initSearch || "");  
 
-  
+    const filteredCards = cards?.filter((card) =>
+      card.displayAddress.includes(search)
+    );
+
+    console.log(search);
+
   return (    
     <div>
       <div>
