@@ -77,7 +77,7 @@ const CardList = ({ cards }) => {
       </div>
       
       <div className="card-container">
-        {filteredCards==""?<div></div>:filteredCards?.map((card) => (
+        {filteredCards==""?<h4>沒有相關資訊</h4>:filteredCards?.map((card) => (
           <Link to={`/construction/card/${card?.roadname_tc}`} state={{card}} key={card?.roadname_tc}>
             <div className="card">
               <h4> <i class="fa-solid fa-location-dot"></i>  {card?.roadname_tc}</h4>

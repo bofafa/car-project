@@ -77,7 +77,7 @@ const CardList = ({ cards }) => {
       </div>
       
       <div className="card-container">
-        {filteredCards?.map((card) => (
+        {filteredCards==""?<h4>沒有相關資訊</h4>:filteredCards?.map((card) => (
           <Link to={`/hotel/card/${card.hotel_name}`} state={{card}} key={card.hotel_name}>
             <div className="card">
               <h3>{card.hotel_name}</h3>
