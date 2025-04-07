@@ -36,7 +36,7 @@ function Navigation() {
     
 
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-dark sticky-top" id="mainNav">
+    <nav className="navbar navbar-expand-xl navbar-dark bg-dark sticky-top" id="mainNav">
       <div className="container">
           <NavLink className="navbar-brand" to="/">
             <div>
