@@ -27,7 +27,7 @@
 }
 
 /* Style3 - Darkmode update on 7 Apr by Lun */
-:root {
+/*:root {
   --dark-bg: #1a1a1a;
   --neon: #00ff88;
   --card-bg: #2d2d2d;
@@ -65,4 +65,4 @@
 a:hover {
   text-decoration: none;
   color: rgba(0, 0, 0, 0.349);
-}
+}*/
