@@ -5,7 +5,8 @@
   
 } */
 
-.card {
+/* Master CSS */
+/*.card {
   margin:30px;
   border: 1px solid #ccc;
   padding: 20px;
@@ -19,3 +20,21 @@
   background: lightgray;
   transform: scale(1.02);
 }
+
+/*Proposed on 6 April 2025   */
+.card {
+  /* existing styles */
+  border-color: #2a9d8f; /* Teal */
+  color: #264653; /* Navy Blue */
+}
+
+.card:hover {
+  background: #2a9d8f33; /* Teal with 20% opacity */
+  border-color: #264653; /* Navy Blue */
+  box-shadow: 0 4px 15px rgba(38, 70, 83, 0.1);
+}
+
+/* Color Pack */
+--primary: #2a9d8f; /* Teal */
+--secondary: #264653; /* Navy Blue */
+--accent: #e9c46a; /* Soft Gold */

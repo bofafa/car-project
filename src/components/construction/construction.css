@@ -4,7 +4,7 @@
   flex-wrap: wrap; 
   
 } */
-
+/*Master CSS */
 .card {
   margin:30px;
   border: 1px solid #ccc;
@@ -19,3 +19,4 @@
   background: lightgray;
   transform: scale(1.02);
 }
+
