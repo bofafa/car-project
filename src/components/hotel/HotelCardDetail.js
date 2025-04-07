@@ -24,7 +24,7 @@ const CardDetail = () => {
   </p>
       <p>Tel: {card.tel}</p>
       <p>Fax: {card.fax}</p>
-      <p>酒店級別: {card.stars} 星⭐️</p>
+      <p>酒店級別: {card.stars} <i class="fa-solid fa-star"></i></p>
       <p>自助餐: {card.buffet ? "提供" : "沒提供"}</p>
       <Link to="/hotel"><button>返回</button></Link>
     </div>

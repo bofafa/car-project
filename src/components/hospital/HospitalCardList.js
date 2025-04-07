@@ -81,7 +81,7 @@ const CardList = ({ cards }) => {
           <Link to={`/hospital/card/${card.institution_tc}`} state={{card}} key={card.institution_tc}>
             <div className="card">
               <h3>{card.institution_tc}</h3>
-              <p> <i class="fa-solid fa-location-dot"></i>  {card.address_tc}</p>
+              <p> <i class="fa-solid fa-location-dot"> </i>  {card.address_tc}</p>
             </div>
           </Link>
         ))}

@@ -5,7 +5,8 @@
   
 } */
 
-.card {
+/* Master hotel CSS */
+/*.card {
   margin:30px;
   border: 1px solid #ccc;
   padding: 20px;
@@ -18,4 +19,100 @@
 .card:hover {
   background: lightgray;
   transform: scale(1.02);
+} */
+
+/* Suggested by Lun - 6April */
+/*Style1 Warm & Cozy   */
+/*:root {  
+  --hotel-primary: #FFA726;    
+  --hotel-secondary: #6D4C41;  
+  --hotel-bg: #FFF3E0;         
+}  
+
+.card {  
+  margin: 30px;  
+  border: 2px solid var(--hotel-secondary);  
+  padding: 25px;  
+  border-radius: 12px;  
+  background: var(--hotel-bg);  
+  cursor: pointer;  
+  transition: all 0.3s ease;  
+  position: relative;  
+}  
+
+.card:hover {  
+  transform: translateY(-5px);  
+  box-shadow: 0 8px 20px rgba(109, 76, 65, 0.1);  
+  border-color: var(--hotel-primary);  
+}  */
+
+/* Add a small star rating badge   
+.card::after {  
+  content: "★★★";  
+  position: absolute;  
+  top: 15px;  
+  right: 15px;  
+  color: var(--hotel-primary);  
+  font-weight: bold;  
+} */
+/* Style2 - Airy Design*/
+:root {  
+  --hotel-blue: #4FC3F7;       
+  --hotel-green: #81C784;      
+  --hotel-white: #FAFAFA;  
+}  
+.card {  
+  margin: 30px;  
+  border: 1px solid #E0E0E0;  
+  padding: 20px;  
+  border-radius: 16px;  
+  background: var(--hotel-white);  
+  cursor: pointer;  
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);  
+}  
+.card:hover {  
+  background: linear-gradient(135deg, #f8fdff 0%, var(--hotel-white) 100%);  
+  border-top: 4px solid var(--hotel-green);  
+  box-shadow: 0 4px 12px rgba(79, 195, 247, 0.1);  
+} 
+/* Add a subtle "Book Now" prompt on hover */ 
+.card:hover::before {  
+  content: "View Details →";  
+  position: absolute;  
+  bottom: 15px;  
+  right: 15px;  
+  color: var(--hotel-blue);  
+  font-size: 0.9em;  
 }
+
+/* Style3 -Classic*/
+/*
+:root {  
+  --hotel-gold: #C5A47E;        
+  --hotel-gray: #555555;  
+  --hotel-cream: #F5F1EE;  
+}  
+
+.card {  
+  margin: 30px;  
+  border: 1px solid #e0d7d0;  
+  padding: 25px;  
+  border-radius: 8px;  
+  background: var(--hotel-cream);  
+  cursor: pointer;  
+  transition: all 0.4s ease-in-out;  
+}  
+
+.card:hover {  
+  transform: scale(1.015);  
+  border-color: var(--hotel-gold);  
+  box-shadow: 0 0 25px rgba(197, 164, 126, 0.08);  
+}  
+
+/* Price highlight styling  
+.card .price {  
+  color: var(--hotel-gold);  
+  font-size: 1.4em;  
+  font-weight: 600;  
+  border-bottom: 3px dotted var(--hotel-gold);  
+}  */
