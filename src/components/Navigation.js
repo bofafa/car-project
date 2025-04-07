@@ -41,13 +41,13 @@ function Navigation() {
           <NavLink className="navbar-brand" to="/">
             <div>
             <i class="fa-solid fa-car fa-bounce fa-2xl"></i>
-              Driving
-              {humidity < 65 && (
+              Driving          
+              {humidity < 50 && (
                 <i class="fa-solid fa-sun"></i>
               )}
-              {/* {(humidity >= 50 && humidity <65) && (
-                <i class="fa-solid fa-clouds-sun"></i>
-              )} */}
+              {(humidity >= 50 && humidity <65) && (
+                <i class="fa-solid fa-cloud-sun"></i>
+              )}
               {humidity >= 65 && (
                 <i class="fa-solid fa-cloud-rain"></i>
               )}
