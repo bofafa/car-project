@@ -12,13 +12,18 @@ const CardDetail = () => {
   
   return (
     <div>
-      <h1>Card Details</h1>
       <h2>{card.name}</h2>
-      <p>{card.address}</p>
       <p>{card.sub_district}</p>
+      <a
+    href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(card.address)}`}
+    target="_blank"
+    rel="noreferrer"
+  >
+   <i class="fa-solid fa-location-dot"> </i> {card.address}
+  </a>
       <p>Tel: {card.tel}</p>
-      <p>Stars: {card.stars}</p>
-      <p>Introduction: {card.introduction}</p>
+      <p>米芝蓮星: {card.stars} <i class="fa-solid fa-star"></i></p>
+      <p>菜式: {card.introduction}</p>
       <Link to="/restaurant"><button>返回</button></Link>
     </div>
   );
