@@ -40,7 +40,7 @@ function Navigation() {
 
   return (
     <nav className="navbar navbar-expand-xl navbar-dark bg-dark sticky-top" id="mainNav">
-      <div className="container">
+      <div className="container-fluid">
           <NavLink className="navbar-brand" to="/">
             <div>
             <i class="fa-solid fa-car fa-bounce fa-2xl"></i>

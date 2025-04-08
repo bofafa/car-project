@@ -10,7 +10,7 @@ const ParkingCardDetail = () => {
   const hourlyCharges = card.privateCar?.hourlyCharges || [];
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="card-container" style={{ padding: "20px" }}>
       <h2>{card.name}</h2>
       <p>
   <strong> <i class="fa-solid fa-location-dot"></i> </strong>

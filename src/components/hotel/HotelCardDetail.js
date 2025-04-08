@@ -11,7 +11,7 @@ const CardDetail = () => {
   if (!card) return <p>Card not found!</p>;
   
   return (
-    <div>
+    <div className="card-container">
       <h2>{card.hotel_name}</h2>
       <p>
       <a
