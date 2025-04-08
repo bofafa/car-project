@@ -44,7 +44,7 @@ function Navigation() {
           <NavLink className="navbar-brand" to="/">
             <div>
             <i class="fa-solid fa-car fa-bounce fa-2xl"></i>
-            自駕樂          
+              自駕樂          
               {humidity < 50 && (
                 <i class="fa-solid fa-sun"></i>
               )}

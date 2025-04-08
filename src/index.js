@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from 'react-dom/client';
 import "./index.css";
 import reportWebVitals from './reportWebVitals';
-import SearchResults from './components/SearchResults';
+
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import {
@@ -62,8 +62,7 @@ root.render(
       </Route>
       
       <Route path="/about" element={<About />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/search" element={<SearchResults />} />
+      <Route path="/contact" element={<Contact />} />      
     </Routes>
     <Footer />
   </Router>
