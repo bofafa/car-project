@@ -1,1 +1,1 @@
-npm i react-router react-router-dom axios
+npm i
