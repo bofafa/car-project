@@ -27,6 +27,11 @@ a:hover {
   width: 400px;
 }
 
+
+.nav-link {
+  line-height: 50%;
+}
+
 /* fix footer always appears at the bottom */
 footer {
   position: fixed;
