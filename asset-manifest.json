@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/car-project/static/css/main.dd197f9b.css",
+    "main.js": "/car-project/static/js/main.8913f229.js",
+    "static/js/453.fcc802ba.chunk.js": "/car-project/static/js/453.fcc802ba.chunk.js",
+    "static/media/driving.jpg": "/car-project/static/media/driving.0123d576520fd8657d35.jpg",
+    "static/media/freerider3.jpg": "/car-project/static/media/freerider3.69c528b118486b0f4c7c.jpg",
+    "static/media/Contact.png": "/car-project/static/media/Contact.12c5de395e68a9cd7fb3.png",
+    "index.html": "/car-project/index.html",
+    "main.dd197f9b.css.map": "/car-project/static/css/main.dd197f9b.css.map",
+    "main.8913f229.js.map": "/car-project/static/js/main.8913f229.js.map",
+    "453.fcc802ba.chunk.js.map": "/car-project/static/js/453.fcc802ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd197f9b.css",
+    "static/js/main.8913f229.js"
+  ]
+}
